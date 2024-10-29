@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>time-tracker</id>
+    <version>1.0.0</version>
+    <authors>time-tracker</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="C:\CodeProjects\CLI_Apps\time-tracker\obj\DotnetToolSettings.xml" target="tools\net8.0\any\DotnetToolSettings.xml" />
+    <file src="C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.dll" target="tools\net8.0\any\time-tracker.dll" />
+    <file src="C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.deps.json" target="tools\net8.0\any\time-tracker.deps.json" />
+    <file src="C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.runtimeconfig.json" target="tools\net8.0\any\time-tracker.runtimeconfig.json" />
+    <file src="C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.pdb" target="tools\net8.0\any\time-tracker.pdb" />
+  </files>
+</package>

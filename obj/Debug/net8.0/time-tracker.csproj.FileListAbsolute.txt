@@ -1,0 +1,14 @@
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Debug\net8.0\time-tracker.exe
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Debug\net8.0\time-tracker.deps.json
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Debug\net8.0\time-tracker.runtimeconfig.json
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Debug\net8.0\time-tracker.dll
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Debug\net8.0\time-tracker.pdb
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\time-tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\time-tracker.AssemblyInfoInputs.cache
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\time-tracker.AssemblyInfo.cs
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\time-tracker.csproj.CoreCompileInputs.cache
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\time-tracker.dll
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\refint\time-tracker.dll
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\time-tracker.pdb
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\time-tracker.genruntimeconfig.cache
+C:\CodeProjects\CLI_Apps\time-tracker\obj\Debug\net8.0\ref\time-tracker.dll

@@ -1,0 +1,5 @@
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.exe
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.dll
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.deps.json
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.runtimeconfig.json
+C:\CodeProjects\CLI_Apps\time-tracker\bin\Release\net8.0\publish\time-tracker.pdb
