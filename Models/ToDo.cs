@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace time_tracker.Models.Todo;
+namespace time_tracker.Models;
 
 public class ToDo(string todo)
 {

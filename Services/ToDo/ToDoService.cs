@@ -1,6 +1,6 @@
 using time_tracker.Database;
 using Microsoft.EntityFrameworkCore;
-using time_tracker.Models.Todo;
+using time_tracker.Models;
 
 namespace time_tracker.Services.Todo;
 
